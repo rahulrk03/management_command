@@ -1,0 +1,3 @@
+- An application which consist an example for custom management command to load into the database.
+- Here we load the data using command python manage.py loadData, which will load all the data present in Test_JSON.json into sample app models.
+- The loaded can be viewed by hitting DataList endpoint.
